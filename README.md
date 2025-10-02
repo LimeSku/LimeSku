@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## OHIOOOO 👋
+![root-me-stats](https://root-me-diff.vercel.app/rm-gh?nickname=Lime&gstats=show)
 <!--
 **LimeSku/LimeSku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
